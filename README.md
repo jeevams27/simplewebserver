@@ -68,7 +68,7 @@ httpd.serve_forever()
 
 ![output 2](JEE2.png)
 
-![output 3](JEE3.PNG)
+![output 3](JEE3.png)
 
 ![output 4](JEE4.png)
 
